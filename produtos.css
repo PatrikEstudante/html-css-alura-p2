@@ -1,8 +1,10 @@
 header {
   backgroud: #BBBBBB;
+  padding: 20xp 0;
 }
 
 nav li {
   display: inline;
   margin: 0 0 0 15px;
 }
+
